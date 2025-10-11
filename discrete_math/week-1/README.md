@@ -19,3 +19,4 @@ Problems (in lexicographical order) – status:
 
 
 WEEK 1 🟢 (Done) 36 problems solved it was named as minimal
+WEEK 2 🟡 (In Progress) 10 problems solved
